@@ -68,5 +68,19 @@ public class Student {
         Department = department;
         Matric_No = matric_No;
         Student_Level = student_Level;
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
     }
 }
